@@ -1,9 +1,7 @@
 # ConfigForge
 
-A production-ready open-source CLI tool to convert configuration files between formats.  
-**Version**: 1.0  
-**License**: MIT  
-**OS**: Cross-platform (Windows, Linux, macOS)  
+An open-source CLI tool to convert configuration files between formats.  
+
 
 ## Supported Formats
 
